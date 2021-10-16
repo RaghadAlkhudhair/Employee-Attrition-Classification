@@ -1,4 +1,4 @@
-# Emplyee-Attrition-Classification
+# Employee-Attrition-Classification
 ## Abstract 
 #### This notebook aims to predict attrition of IBM employees using machine learning classification models.
 
