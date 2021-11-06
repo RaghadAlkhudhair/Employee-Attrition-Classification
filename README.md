@@ -4,7 +4,7 @@
 
 ## Design 
 ### Background 
-#### IBM is one of the largest tech companies in the world, and it struggles with keeping its best employees. So this project aims to help predict the attrition before it happens to help the company take early actions.
+#### This project aims to help predict the attrition before it happens to help the companies take early actions.
 ### Problem
 #### Employee attrition is costly in multiple different ways.
 ### Data
